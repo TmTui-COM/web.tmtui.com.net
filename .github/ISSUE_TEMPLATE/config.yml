@@ -1,0 +1,10 @@
+# 禁止用户提交空白Issue，强制走模板
+blank_issues_enabled: false
+# 自定义联系链接，引导用户提前查看规范
+contact_links:
+  - name: 数据版权与使用规范
+    url: https://github.com/TmTui-COM/web.tmtui.com/blob/main/DATA_COPYRIGHT.md
+    about: 提交前请务必阅读，本数据禁止商用
+  - name: 数据统一标准规范
+    url: https://github.com/TmTui-COM/web.tmtui.com/blob/main/DATA_STANDARD.md
+    about: 严格遵循ISO 3166/639国际标准与项目约定
